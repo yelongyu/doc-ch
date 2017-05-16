@@ -75,7 +75,7 @@ L3网络是由子网（subnet）以及一系列网络服务（network services�
      - - L2NoVlanNetwork
        - L2VlanNetwork
      - 0.6
-   * - 固定IP（Elastic IP，EIP)
+   * - 弹性IP（Elastic IP，EIP)
      - 虚拟路由器（Virtual Router）
      - - L2NoVlanNetwork
        - L2VlanNetwork
